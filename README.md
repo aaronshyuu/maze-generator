@@ -26,4 +26,8 @@ The maze will then be written to the output. Each line of the output will
 represent one square or cell in the maze and indicate which walls remain 
 around that square.
 
+## Knowledge Application
+Disjoint-Set Data Structure<br/>
+Weighted Union<br/>
+Path Compression<br/>
 
